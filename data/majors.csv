@@ -1,0 +1,91 @@
+MAJOR_DESC,CODE,DEGREE,COLL_CODE,COLLEGE,DEPT_CODE,DEPARTMENT
+American Studies,AMER,BA,SS,Social Sciences,AMER,American Studies
+American Studies,AMER,MA,SS,Social Sciences,AMER,American Studies
+American Studies,AMER,PHD,SS,Social Sciences,AMER,American Studies
+Anthropology,ANTH,BA,SS,Social Sciences,SOCI,Sociology
+Astronomy,ASTR,BS,NM,Natural Sciences and Mathematics,PHYS,Physics
+Biochemistry,BIOC,BS,NM,Natural Sciences and Mathematics,BIOS,Biological Sciences
+Biochemistry,BIOC,MS,NM,Natural Sciences and Mathematics,BIOS,Biological Sciences
+Biochemistry,BIOC,PHD,NM,Natural Sciences and Mathematics,BIOS,Biological Sciences
+Biology,BIOL,BS,NM,Natural Sciences and Mathematics,BIOS,Biological Sciences
+Biomedical Engineering,BIOM,BS,NM,Natural Sciences and Mathematics,BIOS,Biological Sciences
+Biomedical Engineering,BIOM,MS,NM,Natural Sciences and Mathematics,BIOS,Biological Sciences
+Biophysics,BIOP,BS,NM,Natural Sciences and Mathematics,PHYS,Physics
+Biophysics,BIOP,MS,NM,Natural Sciences and Mathematics,PHYS,Physics
+Biophysics,BIOP,PHD,NM,Natural Sciences and Mathematics,PHYS,Physics
+Biostatistics,BIOS,BS,PH,School of Public Health,STAT,Statistics
+Biostatistics,BIOS,MS,PH,School of Public Health,STAT,Statistics
+Biostatistics,BIOS,PHD,PH,School of Public Health,STAT,Statistics
+Biotechnology,BIOT,BS,NM,Natural Sciences and Mathematics,BIOS,Biological Sciences
+Biotechnology,BIOT,MS,NM,Natural Sciences and Mathematics,BIOS,Biological Sciences
+Biotechnology,BIOT,PHD,NM,Natural Sciences and Mathematics,BIOS,Biological Sciences
+Chemical Engineering,CHEE,BSE,EN,School of Engineering,ENGN,School of Engineering
+Chemistry,CHEM,BS,NM,Natural Sciences and Mathematics,CHEM,Chemistry
+Chemistry,CHEM,MS,NM,Natural Sciences and Mathematics,CHEM,Chemistry
+Chemistry,CHEM,PHD,NM,Natural Sciences and Mathematics,CHEM,Chemistry
+Classics,CLAS,PHD,AH,Arts and Humanities,ENGL,English and Literature
+Comparative Literature,COML,BA,AH,Arts and Humanities,ENGL,English and Literature
+Comparative Literature,COML,MA,AH,Arts and Humanities,ENGL,English and Literature
+Comparative Literature,COML,PHD,AH,Arts and Humanities,ENGL,English and Literature
+Computational Biology,COMB,PHD,NM,Natural Sciences and Mathematics,BIOS,Biological Sciences
+Computer Science,COMP,BS,NM,Natural Sciences and Mathematics,COMP,Computer Science and Mathematics
+Computer Science,COMP,MS,NM,Natural Sciences and Mathematics,COMP,Computer Science and Mathematics
+Computer Science,COMP,PHD,NM,Natural Sciences and Mathematics,COMP,Computer Science and Mathematics
+Counceling Psychology,CPSY,MA,SS,Social Sciences,PSYC,Psychology
+Data Science,DATA,MS,NM,Natural Sciences and Mathematics,COMP,Computer Science and Mathematics
+Earth Science,EART,BS,NM,Natural Sciences and Mathematics,EEPS,"Earth, Environmental  and Planetary Sciences"
+Earth Science,EART,MS,NM,Natural Sciences and Mathematics,EEPS,"Earth, Environmental  and Planetary Sciences"
+Earth Science,EART,PHD,NM,Natural Sciences and Mathematics,EEPS,"Earth, Environmental  and Planetary Sciences"
+Ecology,ECOL,BS,NM,Natural Sciences and Mathematics,EEPS,"Earth, Environmental  and Planetary Sciences"
+Ecology,ECOL,MS,NM,Natural Sciences and Mathematics,EEPS,"Earth, Environmental  and Planetary Sciences"
+Ecology,ECOL,PHD,NM,Natural Sciences and Mathematics,EEPS,"Earth, Environmental  and Planetary Sciences"
+Economics,ECON,BS,SS,Social Sciences,ECPS,Economic and Political Sciences
+Economics,ECON,BA,SS,Social Sciences,ECPS,Economic and Political Sciences
+Education Studies,EDUC,BA,SS,Social Sciences,SOCI,Sociology
+Engineering,ENGI,ME,EN,School of Engineering,ENGN,School of Engineering
+Engineering,ENGI,PHD,EN,School of Engineering,ENGN,School of Engineering
+English,ENGL,PHD,AH,Arts and Humanities,ENGL,English and Literature
+Environmental Engineering,ENVE,BSE,EN,School of Engineering,ENGN,School of Engineering
+Environmental Science,ENVS,PHD,NM,Natural Sciences and Mathematics,EEPS,"Earth, Environmental  and Planetary Sciences"
+Epidemology,EPID,MS,PH,School of Public Health,MEDS,Medical Sciences
+Gender Studies,GEND,BA,SS,Social Sciences,SOCI,Sociology
+Geology,GEOL,BS,NM,Natural Sciences and Mathematics,EEPS,"Earth, Environmental  and Planetary Sciences"
+Global Public Health,GLOB,MA,PH,School of Public Health,,
+History,HIST,BA,SS,Social Sciences,HIST,History
+History,HIST,MA,SS,Social Sciences,HIST,History
+History,HIST,PHD,SS,Social Sciences,HIST,History
+Human Computer Interaction,HUMA,PHD,NM,Natural Sciences and Mathematics,COMP,Computer Science and Mathematics
+Linguistics,LING,BA,AH,Arts and Humanities,ENGL,English and Literature
+Linguistics,LING,BS,AH,Arts and Humanities,ENGL,English and Literature
+Literary Arts,LITA,BA,AH,Arts and Humanities,ENGL,English and Literature
+Literary Arts,LITA,MA,AH,Arts and Humanities,ENGL,English and Literature
+Mathematics,MATH,BS,NM,Natural Sciences and Mathematics,COMP,Computer Science and Mathematics
+Mathematics,MATH,MS,NM,Natural Sciences and Mathematics,COMP,Computer Science and Mathematics
+Mathematics,MATH,PHD,NM,Natural Sciences and Mathematics,COMP,Computer Science and Mathematics
+Mechanical Engineering,MECH,BSE,EN,School of Engineering,ENGN,School of Engineering
+Media Studies,MEDI,BA,AH,Arts and Humanities,ENGL,English and Literature
+Music,MUSI,BA,AH,Arts and Humanities,MUSI,Music
+Pharmacology,PHAR,PHD,PH,School of Public Health,MEDS,Medical Sciences
+Philosophy,PHIL,BA,AH,Arts and Humanities,PHIL,Philosophy
+Philosophy,PHIL,MA,AH,Arts and Humanities,PHIL,Philosophy
+Philosophy,PHIL,PHD,AH,Arts and Humanities,PHIL,Philosophy
+Physics,PHYS,BS,NM,Natural Sciences and Mathematics,PHYS,Physics
+Physics,PHYS,MS,NM,Natural Sciences and Mathematics,PHYS,Physics
+Physics,PHYS,PHD,NM,Natural Sciences and Mathematics,PHYS,Physics
+Political Science,POLI,PHD,SS,Social Sciences,ECPS,Economic and Political Sciences
+Psychology,PSYC,BA,SS,Social Sciences,PSYC,Psychology
+Public Health,PUBL,BS,PH,School of Public Health,PUBH,School of Public Health
+Public Policy,PUBP,BA,SS,Social Sciences,ECPS,Economic and Political Sciences
+Public Policy,PUBP,BS,SS,Social Sciences,ECPS,Economic and Political Sciences
+Social Analysis and Research,SOCA,MA,SS,Social Sciences,SOCI,Sociology
+Social Analysis and Research,SOCA,MS,SS,Social Sciences,SOCI,Sociology
+Sociology,SOCI,MA,SS,Social Sciences,SOCI,Sociology
+Sociology,SOCI,MS,SS,Social Sciences,SOCI,Sociology
+Sociology,SOCI,PHD,SS,Social Sciences,SOCI,Sociology
+Statistics,STAT,BS,PH,School of Public Health,STAT,Statistics
+Statistics,STAT,MS,PH,School of Public Health,STAT,Statistics
+Statistics,STAT,PHD,PH,School of Public Health,STAT,Statistics
+Theatre Arts and Performance  ,THEA,BA,AH,Arts and Humanities,THEA,Theatre Arts and Performance  
+Theatre Arts and Performance  ,THEA,MA,AH,Arts and Humanities,THEA,Theatre Arts and Performance  
+Theatre Arts and Performance  ,THEA,PHD,AH,Arts and Humanities,THEA,Theatre Arts and Performance  
+Visual Arts,VISU,BA,AH,Arts and Humanities,VISU,Visual Arts
