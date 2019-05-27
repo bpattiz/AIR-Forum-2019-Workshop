@@ -20,5 +20,5 @@
 | STUDENT_TYPE  | VARCHAR2(3 CHAR)  | Degree Code for Curriculum  | 
 | STATUS  | VARCHAR2(10 CHAR)  | Continuing, new, transfer  | 
 | CLASS_CODE  | VARCHAR2(2 CHAR)  | Class Level based on level and number of hours  | 
-| REGISTERED_HRS  | NUMBER(2)  | Class Level based on level and number of hours  | 
+| REGISTERED_HRS  | NUMBER(2)  | Registered hours for term  | 
 
