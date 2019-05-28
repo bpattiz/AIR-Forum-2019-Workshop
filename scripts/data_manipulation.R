@@ -138,7 +138,6 @@ ccihe_2018 %>%
 # Load rscorecard library
 library(rscorecard)
 
-sc_key('JGMPtk0k1qLv7x0nLyRdyi83CcCsYpbaJoON0iab')
 
 sc_init() %>%
   sc_year(2015) %>%
