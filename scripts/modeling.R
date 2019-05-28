@@ -5,7 +5,6 @@ library(betareg)
 library(broom)
 
 # rscorecard key
-sc_key('SExIdTmiI9BdEgFu006AH21dTrk7fXDYFzZqXYYB')
 
 # Bachalorate granting institutions
 cc <- str_c(seq(15, 22, 1))
